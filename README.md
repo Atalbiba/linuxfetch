@@ -1,4 +1,8 @@
-This is my first project of this kind. I'll start with the differences from other similar fetch utilities. Screenfetch is the first such project, which also displays information about installed packages, laptop and computer hardware, and much more. (It's a bit larger and older in functionality than my linuxfetch...) neofetch: The successor to the first fetch, it has about 150 Linux distribution logos and extensive customization (something my fetch, which I developed in about a week or two, doesn't have, I didn't time it exactly). It's definitely top-notch. Fastfetch: It's written in C and is a direct competitor to neofetch, which has a modular structure and a similar configuration. It's often recommended as a modern replacement for neofetch. It has slightly more (much more) hardware information compared to the first version of linuxfetch. Not to mention that neofetch is marked as a legacy project on GitHub.
+This is my first project of this kind. I'll start with the differences from other similar fetch utilities.
+
+Screenfetch is the first such project, which also displays information about installed packages, laptop and computer hardware, and much more. (It's a bit larger and older in functionality than my linuxfetch...) 
+
+neofetch: The successor to the first fetch, it has about 150 Linux distribution logos and extensive customization (something my fetch, which I developed in about a week or two, doesn't have, I didn't time it exactly). It's definitely top-notch. Fastfetch: It's written in C and is a direct competitor to neofetch, which has a modular structure and a similar configuration. It's often recommended as a modern replacement for neofetch. It has slightly more (much more) hardware information compared to the first version of linuxfetch. Not to mention that neofetch is marked as a legacy project on GitHub.
 
 
 How do I download and use this utility? There are several options.
